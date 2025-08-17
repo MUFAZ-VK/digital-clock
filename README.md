@@ -50,7 +50,7 @@ digital-clock/
 
 ## 📸 Screenshot
 
-![Digital Clock Screenshot](screebshot.png)
+![Digital Clock Screenshot](screenshot.png)
 
 ---
 
